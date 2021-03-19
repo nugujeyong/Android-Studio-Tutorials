@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="hello_there_text">Hello There</string>
+    <string name="signature_text">nugujeyong</string>
 </resources>
